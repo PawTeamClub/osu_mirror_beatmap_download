@@ -31,6 +31,8 @@ _✨ 方便地在铺面页面使用镜像站下载 ✨_
 
 ## 使用
 
+[如果你想图方便或者不是很在意那修改的东西，请使用原版项目](https://greasyfork.org/zh-CN/scripts/429781-osu-download-booster)
+
 由于是修改了别人的玩意，所以我不会上架到任何的脚本托管平台
 
 请自行在tampermonkey(油猴)或ScriptCat(脚本猫)新建脚本并粘贴
